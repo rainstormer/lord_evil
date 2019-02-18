@@ -1,0 +1,8 @@
+/* Temporary styles for better troubleshooting */
+
+.articles--large {
+  background-color: red;
+}
+.articles__heading {
+  background-color: blue;
+}
